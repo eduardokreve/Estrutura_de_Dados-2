@@ -1,5 +1,7 @@
 # Estrutura_de_Dados-2
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef83249ca780405cae5923bb15ce1c54)](https://www.codacy.com/app/eduardokreve/Estrutura_de_Dados-2?utm_source=github.com&utm_medium=referral&utm_content=eduardokreve/Estrutura_de_Dados-2&utm_campaign=badger)
+
 Descrição:
 
 Implementar (em linguagem C) uma Árvore B que possui como chave valores inteiros positivos não
